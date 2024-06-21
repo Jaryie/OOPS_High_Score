@@ -1,2 +1,3 @@
 # OOPS_High_Score
-High Score Ga,e
+High Score Game
+Jaryie Wong - 369017829
